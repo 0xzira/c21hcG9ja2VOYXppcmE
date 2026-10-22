@@ -12,100 +12,58 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nazira =====
-[1]Nazira      |09:55:06 | 21-10-2026| login OK @naaziiraa | score=1630 rank=4360
-[1]Nazira      |09:55:06 | 21-10-2026| serverTime=2026-10-21T09:55:06.000Z local=2026-10-21T09:55:06.964Z
+[1]Nazira      |09:18:59 | 22-10-2026| login OK @naaziiraa | score=1700 rank=4256
+[1]Nazira      |09:18:59 | 22-10-2026| serverTime=2026-10-22T09:18:58.000Z local=2026-10-22T09:18:59.085Z
 --> [1]Nazira menjalankan: Claim Daily
-[1]Nazira      |09:55:08 | 21-10-2026| daily: OK +10 poin score=1640
---> [1]Nazira menjalankan: Auto All Tasks (6 pending)
-[1]Nazira      |09:55:10 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/naaziiraa/status/2112844613685219578
-[1]Nazira      |09:55:10 | 21-10-2026| delay 10s...
-[1]Nazira      |09:55:22 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/naaziiraa/status/2112844819041713561
-[1]Nazira      |09:55:22 | 21-10-2026| delay 10s...
-[1]Nazira      |09:55:34 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/naaziiraa/status/2112844799490129397
-[1]Nazira      |09:55:34 | 21-10-2026| delay 10s...
-[1]Nazira      |09:55:46 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/naaziiraa/status/2112844770114164630
-[1]Nazira      |09:55:46 | 21-10-2026| delay 10s...
-[1]Nazira      |09:55:59 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/naaziiraa/status/2112845076440495105
-[1]Nazira      |09:55:59 | 21-10-2026| delay 10s...
-[1]Nazira      |09:56:11 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
-[1]Nazira      |09:56:11 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nazira      |09:56:13 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/naaziiraa/status/2112845114434851037
+[1]Nazira      |09:19:00 | 22-10-2026| daily: OK +10 poin score=1710
+--> [1]Nazira menjalankan: Auto All Tasks (9 pending)
+[1]Nazira      |09:19:02 | 22-10-2026| [1/9] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naaziiraa/status/2113197819421956186
+[1]Nazira      |09:19:02 | 22-10-2026| delay 10s...
+[1]Nazira      |09:19:14 | 22-10-2026| [2/9] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naaziiraa/status/2113197857855747199
+[1]Nazira      |09:19:14 | 22-10-2026| delay 10s...
+[1]Nazira      |09:19:26 | 22-10-2026| [3/9] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naaziiraa/status/2113198022166914725
+[1]Nazira      |09:19:26 | 22-10-2026| delay 10s...
+[1]Nazira      |09:19:39 | 22-10-2026| [4/9] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naaziiraa/status/2113198203119855144
+[1]Nazira      |09:19:39 | 22-10-2026| delay 10s...
+[1]Nazira      |09:19:51 | 22-10-2026| [5/9] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naaziiraa/status/2113198248505696247
+[1]Nazira      |09:19:51 | 22-10-2026| delay 10s...
+[1]Nazira      |09:20:03 | 22-10-2026| [6/9] a3b32468 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naaziiraa/status/2113198265302567864
+[1]Nazira      |09:20:03 | 22-10-2026| delay 10s...
+[1]Nazira      |09:20:15 | 22-10-2026| [7/9] cf4945ad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naaziiraa/status/2113198228426031438
+[1]Nazira      |09:20:15 | 22-10-2026| delay 10s...
+[1]Nazira      |09:20:28 | 22-10-2026| [8/9] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naaziiraa/status/2113198291684430139
+[1]Nazira      |09:20:28 | 22-10-2026| delay 10s...
+[1]Nazira      |09:20:40 | 22-10-2026| [9/9] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naaziiraa/status/2113198318071652375
+[1]Nazira      |09:20:40 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nazira      |09:20:41 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/naaziiraa/status/2113198360383784238
 --> [1]Nazira menjalankan: Watch Anime
-[1]Nazira      |09:56:14 | 21-10-2026| watch: 2 video belum completed: oshi-captains-hat,bakeru-ikesou-jan-mv
-[1]Nazira      |09:56:14 | 21-10-2026| watch [1/2] farming oshi-captains-hat...
-[1]Nazira      |09:56:15 | 21-10-2026| watch oshi-captains-hat: mulai dari 0 (record 75.7s diabaikan)
-[1]Nazira      |09:56:16 | 21-10-2026| watch oshi-captains-hat: 82% (75.70/92.00s)
-[1]Nazira      |09:56:23 | 21-10-2026| watch oshi-captains-hat: 82% (75.70/92.00s)
-[1]Nazira      |09:56:29 | 21-10-2026| watch oshi-captains-hat: 82% (75.70/92.00s)
-[1]Nazira      |09:56:36 | 21-10-2026| watch oshi-captains-hat: 82% (75.70/92.00s)
-[1]Nazira      |09:56:42 | 21-10-2026| watch oshi-captains-hat: 82% (75.70/92.00s)
-[1]Nazira      |09:56:49 | 21-10-2026| watch oshi-captains-hat: 82% (75.70/92.00s)
-[1]Nazira      |09:56:55 | 21-10-2026| watch oshi-captains-hat: 82% (75.70/92.00s)
-[1]Nazira      |09:57:01 | 21-10-2026| watch oshi-captains-hat: 82% (75.70/92.00s)
-[1]Nazira      |09:57:07 | 21-10-2026| watch oshi-captains-hat: 82% (75.70/92.00s)
-[1]Nazira      |09:57:14 | 21-10-2026| watch oshi-captains-hat: 82% (75.70/92.00s)
-[1]Nazira      |09:57:20 | 21-10-2026| watch oshi-captains-hat: 82% (75.70/92.00s)
-[1]Nazira      |09:57:26 | 21-10-2026| watch oshi-captains-hat: 83% (77.17/92.00s)
-[1]Nazira      |09:57:33 | 21-10-2026| watch oshi-captains-hat: 89% (82.72/92.00s)
-[1]Nazira      |09:57:39 | 21-10-2026| watch oshi-captains-hat: 96% (88.77/92.00s)
-[1]Nazira      |09:57:39 | 21-10-2026| watch oshi-captains-hat: COMPLETED (88.77/92.00s)
-[1]Nazira      |09:57:44 | 21-10-2026| watch [2/2] farming bakeru-ikesou-jan-mv...
-[1]Nazira      |09:57:48 | 21-10-2026| watch bakeru-ikesou-jan-mv: mulai dari 0 (record 22.6s diabaikan)
-[1]Nazira      |09:57:50 | 21-10-2026| watch bakeru-ikesou-jan-mv: 12% (22.64/181.00s)
-[1]Nazira      |09:57:56 | 21-10-2026| watch bakeru-ikesou-jan-mv: 12% (22.64/181.00s)
-[1]Nazira      |09:58:03 | 21-10-2026| watch bakeru-ikesou-jan-mv: 12% (22.64/181.00s)
-[1]Nazira      |09:58:09 | 21-10-2026| watch bakeru-ikesou-jan-mv: 12% (22.64/181.00s)
-[1]Nazira      |09:58:15 | 21-10-2026| watch bakeru-ikesou-jan-mv: 12% (23.11/181.00s)
-[1]Nazira      |09:58:21 | 21-10-2026| watch bakeru-ikesou-jan-mv: 15% (28.75/181.00s)
-[1]Nazira      |09:58:28 | 21-10-2026| watch bakeru-ikesou-jan-mv: 18% (34.36/181.00s)
-[1]Nazira      |09:58:34 | 21-10-2026| watch bakeru-ikesou-jan-mv: 22% (40.37/181.00s)
-[1]Nazira      |09:58:42 | 21-10-2026| watch bakeru-ikesou-jan-mv: 25% (45.92/181.00s)
-[1]Nazira      |09:58:49 | 21-10-2026| watch bakeru-ikesou-jan-mv: 29% (52.53/181.00s)
-[1]Nazira      |09:58:55 | 21-10-2026| watch bakeru-ikesou-jan-mv: 32% (58.94/181.00s)
-[1]Nazira      |09:59:01 | 21-10-2026| watch bakeru-ikesou-jan-mv: 35% (64.43/181.00s)
-[1]Nazira      |09:59:07 | 21-10-2026| watch bakeru-ikesou-jan-mv: 38% (69.94/181.00s)
-[1]Nazira      |09:59:14 | 21-10-2026| watch bakeru-ikesou-jan-mv: 41% (75.69/181.00s)
-[1]Nazira      |09:59:20 | 21-10-2026| watch bakeru-ikesou-jan-mv: 45% (81.52/181.00s)
-[1]Nazira      |09:59:28 | 21-10-2026| watch bakeru-ikesou-jan-mv: 48% (87.10/181.00s)
-[1]Nazira      |09:59:34 | 21-10-2026| watch bakeru-ikesou-jan-mv: 51% (93.35/181.00s)
-[1]Nazira      |09:59:41 | 21-10-2026| watch bakeru-ikesou-jan-mv: 55% (99.87/181.00s)
-[1]Nazira      |09:59:48 | 21-10-2026| watch bakeru-ikesou-jan-mv: 58% (105.98/181.00s)
-[1]Nazira      |09:59:54 | 21-10-2026| watch bakeru-ikesou-jan-mv: 61% (112.04/181.00s)
-[1]Nazira      |10:00:00 | 21-10-2026| watch bakeru-ikesou-jan-mv: 65% (117.72/181.00s)
-[1]Nazira      |10:00:06 | 21-10-2026| watch bakeru-ikesou-jan-mv: 68% (123.30/181.00s)
-[1]Nazira      |10:00:13 | 21-10-2026| watch bakeru-ikesou-jan-mv: 71% (128.87/181.00s)
-[1]Nazira      |10:00:19 | 21-10-2026| watch bakeru-ikesou-jan-mv: 74% (134.64/181.00s)
-[1]Nazira      |10:00:25 | 21-10-2026| watch bakeru-ikesou-jan-mv: 77% (140.37/181.00s)
-[1]Nazira      |10:00:32 | 21-10-2026| watch bakeru-ikesou-jan-mv: 80% (145.90/181.00s)
-[1]Nazira      |10:00:38 | 21-10-2026| watch bakeru-ikesou-jan-mv: 83% (151.63/181.00s)
-[1]Nazira      |10:00:45 | 21-10-2026| watch bakeru-ikesou-jan-mv: 86% (157.24/181.00s)
-[1]Nazira      |10:00:51 | 21-10-2026| watch bakeru-ikesou-jan-mv: 90% (163.18/181.00s)
-[1]Nazira      |10:00:51 | 21-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (163.18/181.00s)
+[1]Nazira      |09:20:42 | 22-10-2026| watch: semua video sudah completed
 --> [1]Nazira menjalankan: Read Article
-[1]Nazira      |10:00:52 | 21-10-2026| news: 27/27 artikel selesai dibaca
-[1]Nazira      |10:00:53 | 21-10-2026| mint eligibility: {"userId":"1711218020042043392","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Nazira      |10:00:59 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Nazira      |09:20:44 | 22-10-2026| news: 27/27 artikel selesai dibaca
+[1]Nazira      |09:20:45 | 22-10-2026| mint eligibility: {"userId":"1711218020042043392","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Nazira      |09:20:51 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Nazira      |09:21:00 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Nazira menjalankan: Quiz Anime
-[1]Nazira      |10:01:02 | 21-10-2026| quiz ep1: sudah dijawab
-[1]Nazira      |10:01:02 | 21-10-2026| quiz ep2: sudah dijawab
-[1]Nazira      |10:01:02 | 21-10-2026| quiz ep3: sudah dijawab
-[1]Nazira      |10:01:02 | 21-10-2026| quiz ep4: sudah dijawab
-[1]Nazira      |10:01:02 | 21-10-2026| quiz ep5: sudah dijawab
-[1]Nazira      |10:01:02 | 21-10-2026| quiz ep6: sudah dijawab
+[1]Nazira      |09:21:03 | 22-10-2026| quiz ep1: sudah dijawab
+[1]Nazira      |09:21:03 | 22-10-2026| quiz ep2: sudah dijawab
+[1]Nazira      |09:21:03 | 22-10-2026| quiz ep3: sudah dijawab
+[1]Nazira      |09:21:03 | 22-10-2026| quiz ep4: sudah dijawab
+[1]Nazira      |09:21:03 | 22-10-2026| quiz ep5: sudah dijawab
+[1]Nazira      |09:21:03 | 22-10-2026| quiz ep6: sudah dijawab
 --> [1]Nazira menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nazira      |10:01:04 | 21-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nazira      |10:01:05 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Nazira      |10:01:05 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nazira      |10:01:05 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nazira      |09:21:05 | 22-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nazira      |09:21:05 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Nazira      |09:21:05 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nazira      |09:21:05 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nazira menjalankan: Claim Missions
-[1]Nazira      |10:01:05 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Nazira      |10:01:05 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nazira      |10:01:05 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nazira      |09:21:06 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Nazira      |09:21:06 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nazira      |09:21:06 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nazira menjalankan: Check Eligibility
 
 --- eligibility [1]Nazira ---
-  @naaziiraa | score=1630 rank=4360
-  tasks    [###################-] 74/80
+  @naaziiraa | score=1700 rank=4256
+  tasks    [##################--] 77/86
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -116,14 +74,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nazira menjalankan: Read Manga
-[1]Nazira      |10:01:10 | 21-10-2026| manga: 0/13 chapter belum completed
+[1]Nazira      |09:21:10 | 22-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nazira menjalankan: Get Gift
-[1]Nazira      |10:01:10 | 21-10-2026| gift: 0/4 belum diterima
+[1]Nazira      |09:21:11 | 22-10-2026| gift: 0/4 belum diterima
 --> [1]Nazira menjalankan: Setup Profile
-[1]Nazira      |10:01:11 | 21-10-2026| profile: bio="https://x.com/naaziiraa" fav=amato rewardAt=1791685667
-[1]Nazira      |10:01:11 | 21-10-2026| profile: bonus sudah diklaim, skip
+[1]Nazira      |09:21:11 | 22-10-2026| profile: bio="https://x.com/naaziiraa" fav=amato rewardAt=1791685667
+[1]Nazira      |09:21:11 | 22-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nazira menjalankan: Bind Wallet
-[1]Nazira      |10:01:11 | 21-10-2026| wallet: sudah terikat 94q24g78ms... (solana)
+[1]Nazira      |09:21:12 | 22-10-2026| wallet: sudah terikat 94q24g78ms... (solana)
 
 == RINGKASAN ==
-- Nazira: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 2/2 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Nazira: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
