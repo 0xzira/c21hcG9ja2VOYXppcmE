@@ -12,51 +12,45 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nazira =====
-[1]Nazira      |10:48:32 | 29-10-2026| login OK @naaziiraa | score=2350 rank=3383
-[1]Nazira      |10:48:32 | 29-10-2026| serverTime=2026-10-29T10:48:32.000Z local=2026-10-29T10:48:32.396Z
+[1]Nazira      |10:47:38 | 30-10-2026| login OK @naaziiraa | score=2450 rank=3229
+[1]Nazira      |10:47:38 | 30-10-2026| serverTime=2026-10-30T10:47:38.000Z local=2026-10-30T10:47:38.167Z
 --> [1]Nazira menjalankan: Claim Daily
-[1]Nazira      |10:48:33 | 29-10-2026| daily: OK +10 poin score=2360
---> [1]Nazira menjalankan: Auto All Tasks (9 pending)
-[1]Nazira      |10:48:35 | 29-10-2026| [1/9] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/naaziiraa/status/2115757179923990238
-[1]Nazira      |10:48:35 | 29-10-2026| delay 10s...
-[1]Nazira      |10:48:47 | 29-10-2026| [2/9] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/naaziiraa/status/2115757283327583540
-[1]Nazira      |10:48:47 | 29-10-2026| delay 10s...
-[1]Nazira      |10:49:00 | 29-10-2026| [3/9] a4b0b050 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/naaziiraa/status/2115757384776971434
-[1]Nazira      |10:49:00 | 29-10-2026| delay 10s...
-[1]Nazira      |10:49:11 | 29-10-2026| [4/9] 6fb148bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/naaziiraa/status/2115757462984653984
-[1]Nazira      |10:49:11 | 29-10-2026| delay 10s...
-[1]Nazira      |10:49:23 | 29-10-2026| [5/9] 3a2ebc56 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/naaziiraa/status/2115757411315397745
-[1]Nazira      |10:49:23 | 29-10-2026| delay 10s...
-[1]Nazira      |10:49:35 | 29-10-2026| [6/9] 21a80281 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/naaziiraa/status/2115757452235894734
-[1]Nazira      |10:49:35 | 29-10-2026| delay 10s...
-[1]Nazira      |10:49:47 | 29-10-2026| [7/9] 623aac60 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/naaziiraa/status/2115757549550610743
-[1]Nazira      |10:49:47 | 29-10-2026| delay 10s...
-[1]Nazira      |10:49:59 | 29-10-2026| [8/9] 8545d68c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/naaziiraa/status/2115757682732079108
-[1]Nazira      |10:49:59 | 29-10-2026| delay 10s...
-[1]Nazira      |10:50:10 | 29-10-2026| [9/9] 125a0329 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321
-[1]Nazira      |10:50:10 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nazira      |10:50:12 | 29-10-2026| [1/1] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115728806573219 | proof=https://x.com/naaziiraa/status/2115757726646713002
+[1]Nazira      |10:47:39 | 30-10-2026| daily: OK +10 poin score=2460
+--> [1]Nazira menjalankan: Auto All Tasks (6 pending)
+[1]Nazira      |10:47:41 | 30-10-2026| [1/6] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/naaziiraa/status/2116119363068741242
+[1]Nazira      |10:47:41 | 30-10-2026| delay 10s...
+[1]Nazira      |10:47:52 | 30-10-2026| [2/6] 2b535748 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/naaziiraa/status/2116119428136571158
+[1]Nazira      |10:47:52 | 30-10-2026| delay 10s...
+[1]Nazira      |10:48:04 | 30-10-2026| [3/6] 41ea1884 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/naaziiraa/status/2116119618998472440
+[1]Nazira      |10:48:04 | 30-10-2026| delay 10s...
+[1]Nazira      |10:48:15 | 30-10-2026| [4/6] ef7e9fb7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/naaziiraa/status/2116119538615210804
+[1]Nazira      |10:48:15 | 30-10-2026| delay 10s...
+[1]Nazira      |10:48:27 | 30-10-2026| [5/6] 0aa0f4ba (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/naaziiraa/status/2116119419098360094
+[1]Nazira      |10:48:27 | 30-10-2026| delay 10s...
+[1]Nazira      |10:48:39 | 30-10-2026| [6/6] 137da6db (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790
+[1]Nazira      |10:48:39 | 30-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nazira      |10:48:40 | 30-10-2026| [1/1] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116040079017906 | proof=https://x.com/naaziiraa/status/2116119799520418136
 --> [1]Nazira menjalankan: Watch Anime
-[1]Nazira      |10:50:13 | 29-10-2026| watch: semua video sudah completed
+[1]Nazira      |10:48:41 | 30-10-2026| watch: semua video sudah completed
 --> [1]Nazira menjalankan: Read Article
-[1]Nazira      |10:50:14 | 29-10-2026| news: 30/30 artikel selesai dibaca
-[1]Nazira      |10:50:15 | 29-10-2026| mint eligibility: {"userId":"1711218020042043392","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Nazira      |10:50:15 | 29-10-2026| news: semua artikel sudah dibaca
+[1]Nazira      |10:48:42 | 30-10-2026| news: 30/30 artikel selesai dibaca
+[1]Nazira      |10:48:43 | 30-10-2026| mint eligibility: {"userId":"1711218020042043392","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Nazira      |10:48:43 | 30-10-2026| news: semua artikel sudah dibaca
 --> [1]Nazira menjalankan: Quiz Anime
 --> [1]Nazira menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nazira      |10:50:17 | 29-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nazira      |10:50:18 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Nazira      |10:50:18 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nazira      |10:50:18 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nazira      |10:48:45 | 30-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nazira      |10:48:45 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Nazira      |10:48:45 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nazira      |10:48:45 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nazira menjalankan: Claim Missions
-[1]Nazira      |10:50:18 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Nazira      |10:50:18 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nazira      |10:50:18 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nazira      |10:48:45 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Nazira      |10:48:45 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nazira      |10:48:45 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nazira menjalankan: Check Eligibility
 
 --- eligibility [1]Nazira ---
-  @naaziiraa | score=2350 rank=3383
-  tasks    [######--------------] 4/13
+  @naaziiraa | score=2450 rank=3229
+  tasks    [########------------] 4/10
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -67,14 +61,15 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nazira menjalankan: Read Manga
-[1]Nazira      |10:50:22 | 29-10-2026| manga: 0/13 chapter belum completed
+[1]Nazira      |10:48:49 | 30-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nazira menjalankan: Get Gift
-[1]Nazira      |10:50:23 | 29-10-2026| gift: 0/5 belum diterima
+[1]Nazira      |10:48:50 | 30-10-2026| gift: 1/6 belum diterima
+[1]Nazira      |10:48:51 | 30-10-2026| gift [1/1] I’m minting. Welcoming my Oshii.: OK
 --> [1]Nazira menjalankan: Setup Profile
-[1]Nazira      |10:50:23 | 29-10-2026| profile: bio="https://x.com/naaziiraa" fav=amato rewardAt=1791685667
-[1]Nazira      |10:50:23 | 29-10-2026| profile: bonus sudah diklaim, skip
+[1]Nazira      |10:48:53 | 30-10-2026| profile: bio="https://x.com/naaziiraa" fav=amato rewardAt=1791685667
+[1]Nazira      |10:48:53 | 30-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nazira menjalankan: Bind Wallet
-[1]Nazira      |10:50:24 | 29-10-2026| wallet: sudah terikat 94q24g78ms... (solana)
+[1]Nazira      |10:48:53 | 30-10-2026| wallet: sudah terikat 94q24g78ms... (solana)
 
 == RINGKASAN ==
-- Nazira: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/5 diterima | profile - | wallet bound | mint req=false open=false
+- Nazira: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/6 diterima | profile - | wallet bound | mint req=false open=false
