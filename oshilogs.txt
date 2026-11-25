@@ -12,35 +12,37 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nazira =====
-[1]Nazira      |10:34:19 | 24-11-2026| login OK @naaziiraa | score=3460 rank=2240
-[1]Nazira      |10:34:19 | 24-11-2026| serverTime=2026-11-24T10:34:19.000Z local=2026-11-24T10:34:19.854Z
+[1]Nazira      |09:23:42 | 25-11-2026| login OK @naaziiraa | score=3480 rank=2232
+[1]Nazira      |09:23:42 | 25-11-2026| serverTime=2026-11-25T09:23:42.000Z local=2026-11-25T09:23:42.279Z
 --> [1]Nazira menjalankan: Claim Daily
-[1]Nazira      |10:34:21 | 24-11-2026| daily: OK +10 poin score=3470
---> [1]Nazira menjalankan: Auto All Tasks (1 pending)
-[1]Nazira      |10:34:23 | 24-11-2026| [1/1] 88b240aa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"88b240aa-fcca-478e-802b-b5431f9910c3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212485554787911 | proof=https://x.com/naaziiraa/status/2125175768670633294
-[1]Nazira      |10:34:23 | 24-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nazira      |10:34:25 | 24-11-2026| [1/1] 88b240aa (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"88b240aa-fcca-478e-802b-b5431f9910c3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2124855547879113 | proof=https://x.com/naaziiraa/status/2125175736616182063
+[1]Nazira      |09:23:44 | 25-11-2026| daily: OK +10 poin score=3490
+--> [1]Nazira menjalankan: Auto All Tasks (2 pending)
+[1]Nazira      |09:23:46 | 25-11-2026| [1/2] f7b82d41 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f7b82d41-5dac-4ef2-9d40-7befdeea1bdc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212545341837459 | proof=https://x.com/naaziiraa/status/2125520176705085289
+[1]Nazira      |09:23:46 | 25-11-2026| delay 10s...
+[1]Nazira      |09:23:59 | 25-11-2026| [2/2] cccd5ab3 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f7b82d41-5dac-4ef2-9d40-7befdeea1bdc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212545341837459 | proof=https://x.com/naaziiraa/status/2125520525942302962
+[1]Nazira      |09:23:59 | 25-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nazira      |09:24:00 | 25-11-2026| [1/1] f7b82d41 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f7b82d41-5dac-4ef2-9d40-7befdeea1bdc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2125453418374590 | proof=https://x.com/naaziiraa/status/2125520498499472073
 --> [1]Nazira menjalankan: Watch Anime
-[1]Nazira      |10:34:26 | 24-11-2026| watch: semua video sudah completed
+[1]Nazira      |09:24:01 | 25-11-2026| watch: semua video sudah completed
 --> [1]Nazira menjalankan: Read Article
-[1]Nazira      |10:34:27 | 24-11-2026| news: 34/34 artikel selesai dibaca
-[1]Nazira      |10:34:27 | 24-11-2026| mint eligibility: {"userId":"1711218020042043392","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Nazira      |10:34:27 | 24-11-2026| news: semua artikel sudah dibaca
+[1]Nazira      |09:24:03 | 25-11-2026| news: 34/34 artikel selesai dibaca
+[1]Nazira      |09:24:03 | 25-11-2026| mint eligibility: {"userId":"1711218020042043392","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Nazira      |09:24:03 | 25-11-2026| news: semua artikel sudah dibaca
 --> [1]Nazira menjalankan: Quiz Anime
 --> [1]Nazira menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nazira      |10:34:29 | 24-11-2026| music: kedua misi sudah tercapai, stop
-[1]Nazira      |10:34:29 | 24-11-2026| mission music-listens-10: sudah diklaim
-[1]Nazira      |10:34:29 | 24-11-2026| mission music-minutes-30: sudah diklaim
-[1]Nazira      |10:34:29 | 24-11-2026| mission anime-completed-3: sudah diklaim
+[1]Nazira      |09:24:05 | 25-11-2026| music: kedua misi sudah tercapai, stop
+[1]Nazira      |09:24:05 | 25-11-2026| mission music-listens-10: sudah diklaim
+[1]Nazira      |09:24:05 | 25-11-2026| mission music-minutes-30: sudah diklaim
+[1]Nazira      |09:24:05 | 25-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nazira menjalankan: Claim Missions
-[1]Nazira      |10:34:29 | 24-11-2026| mission music-listens-10: sudah diklaim
-[1]Nazira      |10:34:29 | 24-11-2026| mission music-minutes-30: sudah diklaim
-[1]Nazira      |10:34:29 | 24-11-2026| mission anime-completed-3: sudah diklaim
+[1]Nazira      |09:24:05 | 25-11-2026| mission music-listens-10: sudah diklaim
+[1]Nazira      |09:24:05 | 25-11-2026| mission music-minutes-30: sudah diklaim
+[1]Nazira      |09:24:05 | 25-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nazira menjalankan: Check Eligibility
 
 --- eligibility [1]Nazira ---
-  @naaziiraa | score=3460 rank=2240
-  tasks    [#################---] 6/7
+  @naaziiraa | score=3480 rank=2232
+  tasks    [############--------] 3/5
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -51,17 +53,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nazira menjalankan: Read Manga
-[1]Nazira      |10:34:32 | 24-11-2026| manga: 0/13 chapter belum completed
+[1]Nazira      |09:24:09 | 25-11-2026| manga: 0/13 chapter belum completed
 --> [1]Nazira menjalankan: Get Gift
-[1]Nazira      |10:34:34 | 24-11-2026| gift: 3/12 belum diterima
-[1]Nazira      |10:34:35 | 24-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Nazira      |10:34:37 | 24-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Nazira      |10:34:40 | 24-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Nazira      |09:24:11 | 25-11-2026| gift: 3/12 belum diterima
+[1]Nazira      |09:24:11 | 25-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Nazira      |09:24:14 | 25-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Nazira      |09:24:17 | 25-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Nazira menjalankan: Setup Profile
-[1]Nazira      |10:34:43 | 24-11-2026| profile: bio="https://x.com/naaziiraa" fav=amato rewardAt=1791685667
-[1]Nazira      |10:34:43 | 24-11-2026| profile: bonus sudah diklaim, skip
+[1]Nazira      |09:24:20 | 25-11-2026| profile: bio="https://x.com/naaziiraa" fav=amato rewardAt=1791685667
+[1]Nazira      |09:24:20 | 25-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Nazira menjalankan: Bind Wallet
-[1]Nazira      |10:34:43 | 24-11-2026| wallet: sudah terikat 94q24g78ms... (solana)
+[1]Nazira      |09:24:21 | 25-11-2026| wallet: sudah terikat 94q24g78ms... (solana)
 
 == RINGKASAN ==
-- Nazira: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Nazira: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
